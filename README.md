@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JackDOx
-- 👀 I’m interested in designing website
-- 🌱 I’m currently learning algorithm
-- 💞️ I’m looking to collaborate on websign design
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning NodeJS with Mongoose of MongoDB
+- 💞️ I’m looking for job in Back End development
 - 📫 How to reach me algorithm
 
 <!---
